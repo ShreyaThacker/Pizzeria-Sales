@@ -14,7 +14,6 @@ Gaining and presenting useful insights that are easy to understand via charts an
 Microsoft Excel 365: Data organization, data cleaning and validation, data analysis, and data visualization were done using the powerful tools and features of Microsoft Excel.
 
 ### Initial Data Inspection and Organization
-Several `CSV` files were opened in Microsoft Excel. 
 
 The original dataset for analysis was spread over four Excel workbooks one for each of the following:
   1. <b>Order_DateTime:</b> Date and Time of pizza orders
